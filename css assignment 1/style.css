@@ -1,0 +1,116 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.nav{
+    background-color: gray;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: left;
+    color: #fff;
+    padding: 1px;}
+
+.color{
+    color: rgb(60, 236, 60);
+    background-color:  gray;
+    float: right;
+    padding-top:10px;
+    padding-bottom: 6px;
+    border: 1;
+    border-color: rgb(60, 236, 60) ;}
+
+.four{
+    background-color: rgba(35, 203, 245,0.5);
+    float: left;
+    list-style-type: none;
+    padding-right: 30px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: 20px;
+    height: 285px;}
+
+#one{
+   background-color: rgba(5, 156, 5, 0.8);}
+#two{
+   background-color: rgb(209, 207, 207);}
+
+.parent{
+    margin:20px 10px 20px 10px ;
+    vertical-align: middle;
+    padding: 10px;
+    padding-bottom: 5px;
+    color: #fff;
+    display: flex;}  
+
+#child1{
+    text-align: center;
+    color: #fff;
+    width: 30%;
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 20px;}
+
+#child2 {
+    text-align:right;  
+    color: #fff;
+    height: 30px;
+    width: 20%;
+    margin-left: 20px;
+    margin-right: 20px;}
+
+
+#submit{
+    background-color: rgb(243, 248, 194);
+    float:right;
+    border-radius: 20px 20px 20px 20px;
+    padding:  10px 100px 10px 100px ;
+    margin-top: 70px;
+    margin-bottom: 1px;}
+   
+
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    color: white;}
+
+ol li{
+    list-style-type: none;
+    padding: 8px;}
+
+table{
+    margin-top: 40px;
+    margin-right: 15px;
+    padding-top: 10px;
+    padding-left: 3px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    border-collapse: collapse;
+    border:solid 1px;
+    border-color: black;}
+
+table td {
+    border-collapse: collapse;
+    border: solid 1px;
+    border-color: black;}
+
+div{
+    background-color:rgb(90, 90, 90);}
+ 
+button{
+    background-color: rgb(6, 165, 32);}
+
+.button{
+    background-color: red;}
+
+input{
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 10px; }
+
+
+
+   
+
+
